@@ -10,7 +10,7 @@ on:
         arc_name:
           description: 'Target ARC name used for `runs-on` in job'
           required: true
-          default: "debain-20-04-16g-k8s"
+          default: "gharc-06172026-runner"
         delay:
           description: 'how long to sleep in seconds'
           required: true
